@@ -1,0 +1,2 @@
+1. Belajar GitHub
+2. Praktik branch & pull request
